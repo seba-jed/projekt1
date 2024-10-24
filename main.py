@@ -1,1 +1,1 @@
-print("hi!!!")
+print("Misiek jest wielki!")
